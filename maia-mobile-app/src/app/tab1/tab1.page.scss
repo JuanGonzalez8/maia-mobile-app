@@ -1,0 +1,43 @@
+h1{
+    margin: 0;
+    font-weight: bold;
+}
+ion-col{
+    margin: 0px 3vmin;
+}
+ion-text{
+    font-size: larger;
+}
+span ion-icon{
+    font-size: larger;
+    margin: 0px 5vmin;
+}
+#circle {
+    background: #e0254a;
+    border-radius: 50%;
+    width: 45vmax;
+    height: 45vmax;
+    position: relative;
+    right: 50px;
+    top: -15vmax;
+    margin: 0;
+}
+#circle2 {
+    background: #be2745;
+    border-radius: 50%;
+    width: 48vmax;
+    height: 48vmax;
+    position: absolute;
+    left: 30vmin;
+    top: -10vmax;
+    margin: 0;
+}
+.profile-pic{
+    border-radius: 50%;
+    width: 20vmax;
+    height: 20vmax;
+    top: 20vmax;
+    left: 30vw;
+    margin-bottom: 2vh;
+    position: absolute;
+}
